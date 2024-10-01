@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.upf.elifestyle",
+      "sha256_cert_fingerprints": [
+        "62:3E:C0:04:E3:FF:73:AD:5B:BA:4D:8B:2E:58:F2:09:94:6B:85:AE:7C:7A:50:74:45:A8:DA:C9:AC:53:78:D6"
+      ]
+    }
+  }
+]
